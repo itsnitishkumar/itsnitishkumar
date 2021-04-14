@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itsnitishkumar
+- 👋 Hi, I’m Nitish my username: @itsnitishkumar
 - 👀 I’m interested in continuous learning.
 - 🌱 I’m currently learning Angular.
 - 💞️ I’m looking to collaborate on Web Devlopment project.
